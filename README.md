@@ -11,6 +11,10 @@ The app allows users to:
 
   # Screenshots:
 
-  ![](path/to/image.png)
+![](images/home_page.JPG)
+
+![](images/create_room_page.JPG)
+
+![](images/users_in_the_room.JPG)
 
   
