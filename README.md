@@ -11,6 +11,10 @@ The app allows users to:
 
   # Screenshots:
 
-  ![](path/to/image.png)
+  ![](live-chat-app\images\home page.JPG)
+  
+  ![](live-chat-app\images\create room page.JPG)
+
+  ![](live-chat-app\images\2 users in the room.JPG)
 
   
